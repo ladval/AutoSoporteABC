@@ -1,2 +1,2 @@
 # AutoSoporteABC
-Support platform for ABC users
+Automated support platform for users
